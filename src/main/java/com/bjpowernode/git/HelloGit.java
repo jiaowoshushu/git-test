@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("hello,git");
         System.out.println("hello,world");
         System.out.println("hellp,springboot");
+        System.out.println("hellp,master");
     }
 }

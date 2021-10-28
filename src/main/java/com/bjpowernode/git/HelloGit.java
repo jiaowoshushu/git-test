@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("hellp,springboot");
         System.out.println("");
         System.out.println("hellp,master");
+        System.out.println("hello,commit");
     }
 }
